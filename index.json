@@ -1,0 +1,11 @@
+{
+  "org": "airbnb",
+  "repo": "javascript",
+  "versions": [
+    {
+      "commit": "8ed19247bef145e3cc41b24a02dd1fe6d9b5e681",
+      "tag": "",
+      "parsed_at": "2026-11-09T20:56:23.071829+00:00"
+    }
+  ]
+}

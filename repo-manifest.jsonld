@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/airbnb/javascript/commit/8ed19247bef145e3cc41b24a02dd1fe6d9b5e681",
       "git:hexsha": "8ed19247bef145e3cc41b24a02dd1fe6d9b5e681",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/airbnb/javascript/commit/b4d8543f120ba761ae7f39caf850c1e4efdc2727",
